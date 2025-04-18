@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import logo2 from "../../../Assets/Logo2.svg";
+import logo2 from "./Assets/Logo2.svg";
 import Link from 'next/link';
 import { Swiper, SwiperSlide } from 'swiper/react';
 

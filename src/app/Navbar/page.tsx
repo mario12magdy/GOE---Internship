@@ -3,8 +3,8 @@
 import React, { useRef, useState, useEffect } from 'react'
 import Link from 'next/link';
 import Image from 'next/image';
-import logo from "../../../Assets/logo.svg";
-import logo2 from "../../../Assets/Logo2.svg";
+import logo from "./Assets/logo.svg";
+import logo2 from "./Assets/Logo2.svg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 import "@fortawesome/fontawesome-free"
