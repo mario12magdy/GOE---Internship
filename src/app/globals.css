@@ -30,27 +30,27 @@ body {
 
 
 .topSection{
-  background-image: url(./../../Assets/Pyramids\ cover.png);
+  background-image: url(./Assets/Pyramids\ cover.png);
   background-position: 50% 55%;
   background-size: cover;
 }
 .trimg1{
-  background-image: url(./../../Assets/Cairo2.svg);
+  background-image: url(./Assets/Cairo2.svg);
   background-size:cover;
 
 }
 .trimg2{
-  background-image: url(./../../Assets/Hurghada.svg);
+  background-image: url(./Assets/Hurghada.svg);
   background-size:cover;
 
 }
 .trimg3{
-  background-image: url(./../../Assets/SharmElSheikh.svg);
+  background-image: url(./Assets/SharmElSheikh.svg);
   background-size:cover;
 
 }
 .trimg4{
-  background-image: url(./../../Assets/Luxor.svg);
+  background-image: url(./Assets/Luxor.svg);
   background-size:cover;
 
 }
@@ -115,7 +115,7 @@ input:focus{
   width: min-content;
 }
 .image{
-  background-image: url(./../../Assets/Adventure.svg);
+  background-image: url(./Assets/Adventure.svg);
   background-size:cover;
 
 }

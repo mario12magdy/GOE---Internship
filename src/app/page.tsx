@@ -1,22 +1,18 @@
 
 "use client"
 import Image from "next/image";
-import Users from "../../Assets/users.svg"
-import SomaBay from "../../Assets/SomaBay.svg"
-import Cairo from "../../Assets/cairo.svg"
-import RedSea from "../../Assets/RedSea.svg"
-import Giza from "../../Assets/Giza.svg"
-import Nile from "../../Assets/Nile.svg"
-import NabqBay from "../../Assets/NabqBay.svg"
-import Other from "../../Assets/Other.svg"
-import Mouse from "../../Assets/Mouse.svg"
-import VR from "../../Assets/VR.svg"
-import Deals from "../../Assets/Deals.svg"
-import Cairo2 from "../../Assets/Cairo2.svg"
-import Hurghada from "../../Assets/Hurghada.svg"
-import SharmElSheikh from "../../Assets/SharmElSheikh.svg"
-import Luxor from "../../Assets/Luxor.svg"
-import Adventure from "../../Assets/Adventure.svg"
+import Users from "./Assets/users.svg"
+import SomaBay from "./Assets/SomaBay.svg"
+import Cairo from "./Assets/cairo.svg"
+import RedSea from "./Assets/RedSea.svg"
+import Giza from "./Assets/Giza.svg"
+import Nile from "./Assets/Nile.svg"
+import NabqBay from "./Assets/NabqBay.svg"
+import Other from "./Assets/Other.svg"
+import Mouse from "./Assets/Mouse.svg"
+import VR from "./Assets/VR.svg"
+import Deals from "./Assets/Deals.svg"
+
 import { Datepicker, createTheme, ThemeProvider } from "flowbite-react";
 import { useEffect, useRef, useState } from "react";
 import { Swiper, SwiperSlide } from 'swiper/react';
